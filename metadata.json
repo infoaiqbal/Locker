@@ -1,0 +1,8 @@
+{
+  "name": "Secure Content Locker",
+  "description": "A secure content locker using AES encryption and Firebase, hosted on GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
